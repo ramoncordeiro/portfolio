@@ -2,7 +2,7 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Ramon Cordeiro
 Richard hanrick
 Web developer
 
