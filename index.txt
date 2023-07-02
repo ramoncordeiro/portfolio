@@ -3,22 +3,19 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Ramon Cordeiro
-Richard hanrick
-Web developer
+Ramon Cordeiro
+Blockchain research, auditor and developer. 
 
 Show Contacts
 
 Email
-richard@example.com
 
 Phone
-+1 (213) 352-2795
 
 Birthday
-June 23, 1982
 
 Location
-Sacramento, California, USA
+Brazil
 
 # navbar
 
